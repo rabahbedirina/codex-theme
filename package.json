@@ -1,0 +1,65 @@
+{
+	"name": "codex-theme",
+	"displayName": "Codex",
+	"description": "A clean, sleek carbon-gray dark theme for long coding sessions.",
+	"version": "1.1.0",
+	"icon": "icon.png",
+	"publisher": "Rabah Bedirina",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"carbon",
+		"anthracite",
+		"color-theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rabahbedirina/codex-theme.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Codex Carbon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codex-carbon-color-theme.json"
+			},
+			{
+				"label": "Codex Anthracite",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codex-anthracite-color-theme.json"
+			},
+			{
+				"label": "Codex Slate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codex-slate-color-theme.json"
+			},
+			{
+				"label": "Codex Graphite",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codex-graphite-color-theme.json"
+			},
+			{
+				"label": "Codex Forest",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codex-forest-color-theme.json"
+			},
+			{
+				"label": "Codex Carbon High Contrast",
+				"uiTheme": "hc-black",
+				"path": "./themes/codex-carbon-high-contrast-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1792866147210,
+		"targetPlatform": "undefined",
+		"size": 124051
+	}
+}
