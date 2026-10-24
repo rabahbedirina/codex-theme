@@ -4,7 +4,7 @@
 	"description": "A clean, sleek carbon-gray dark theme for long coding sessions.",
 	"version": "1.1.0",
 	"icon": "icon.png",
-	"publisher": "Rabah Bedirina",
+	"publisher": "codex",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.75.0"
@@ -56,10 +56,5 @@
 				"path": "./themes/codex-carbon-high-contrast-color-theme.json"
 			}
 		]
-	},
-	"__metadata": {
-		"installedTimestamp": 1792866147210,
-		"targetPlatform": "undefined",
-		"size": 124051
 	}
 }

@@ -2,6 +2,8 @@
 
 Clean, sleek dark themes for VS Code, built for long sessions.
 
+Version 1.1.0 includes six themes:
+
 | Theme | Look |
 |---|---|
 | Codex Carbon | Deep carbon gray, teal accent |
@@ -11,6 +13,11 @@ Clean, sleek dark themes for VS Code, built for long sessions.
 | Codex Forest | Green-tinted dark, green accent |
 | Codex Carbon High Contrast | Maximum contrast, bright borders |
 
-Select one via **Preferences: Color Theme**.
+## Install
 
-Variants are generated from the base theme with `scripts/generate-variants.py`.
+Once published, install Codex from the VS Code Marketplace, then open
+**Preferences: Color Theme** and select a Codex theme.
+
+To install a local package, run `vsce package` in the extension folder, then use
+**Extensions: Install from VSIX...** in VS Code. After installation, select a
+Codex theme through **Preferences: Color Theme**.
