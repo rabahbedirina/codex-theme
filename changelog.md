@@ -5,3 +5,6 @@
 
 ## 1.1.0
 - Added variants: Codex Anthracite, Codex Slate, Codex Graphite, Codex Forest and Codex Carbon High Contrast.
+
+## 1.2.0
+- Update theme and add python scripts 
